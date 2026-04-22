@@ -1,13 +1,13 @@
-baseURL = "http://localhost:1313/gdr_nbody_2021/"
+baseURL = "http://localhost:1313/EMPC_workshop/"
 #baseURL = "https://lcpq.github.io/gdr_nbody_2021/"
 canonifyurls  = true
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 theme = "beautifulhugo"
-title = "GDR NBODY MEETING (Toulouse, 10-13 Jan 2022)"
+title = "EMPC WORKSHOP (Toulouse, ??-?? Apr 2027)"
 [Params]
-  hometitle = "GDR NBODY GENERAL MEETING 2022"
-  logo="img/CNRS.png"
+  hometitle = "EMPC WORKSHOP"
+  logo="img/EMPC.png"
 #  subtitle = ""
 [[Params.bigimg]]
   src = "img/500px-Maths1.jpg"
