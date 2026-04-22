@@ -6,6 +6,7 @@ draft: false
 
 # NEWS
 * **Apr 2026:** The workshop's website is officially up and running!
+* 
 
 ## Embedding Theory: Bridging Math, Physics, and Chemistry for Quantum Discovery
 
