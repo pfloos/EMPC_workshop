@@ -4,9 +4,9 @@ index cad4250..b9c9e51 100644
 +++ b/config.toml
 @@ -1,5 +1,5 @@
 -baseURL = "http://localhost:1313/EMPC_workshop/"
--#baseURL = "https://lcpq.github.io/EMPC_workshop/"
+-#baseURL = "https://pfloos.github.io/EMPC_workshop/"
 +#baseURL = "http://localhost:1313/EMPC_workshop/"
-+baseURL = "https://lcpq.github.io/EMPC_workshop/"
++baseURL = "https://pfloos.github.io/EMPC_workshop/"
  canonifyurls  = true
  languageCode = "en-us"
  DefaultContentLanguage = "en"
