@@ -6,22 +6,22 @@ DefaultContentLanguage = "en"
 theme = "beautifulhugo"
 title = "EMPC WORKSHOP (Toulouse, ??-?? Apr 2027)"
 [Params]
-  hometitle = "EMPC WORKSHOP"
+  hometitle = "Embedding in Math, Physics and Chemistry"
   logo="img/EMPC.png"
 #  subtitle = ""
 [[Params.bigimg]]
   src = "img/EMPC.png"
-  desc = "Embedding in Math, Physics and Chemistry"
+  desc = "EMPC WORKSHOP"
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
  [Author]
-#  name = "GDR NBODY"
-   email = "gdrnbody@lct.jussieu.fr"
-#  github = "LCPQ"
-   twitter = "GDR_NBODY"
+   name = "EMPC WORKSHOP"
+   email = "cmejutozaera@irsamc.ups-tlse.fr"
+   github = "pfloos"
+#   twitter = "GDR_NBODY"
 #   youtube = "channel/UCPUtUMqEM3K5sYcMJGTd_Bg"
 
 [[menu.main]]
