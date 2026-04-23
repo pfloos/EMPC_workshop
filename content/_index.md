@@ -15,14 +15,14 @@ Embedding theory stands at the forefront of modern electronic structure research
 
 # Registration
 
-Registration is **open**. Please, email <loos@irsamc.ups-tlse.fr> to register and submit your title and abstract if you would like to contribute (30min talks & posters are available). There is no registration fee. **Deadline for contributions: Nov 1st 2023**.
+Registration has not yet opened. 
 
 # CONFIRMED INVITED SPEAKERS
 - James Bond (Cambridge, UK)
 
 # Location
 
-The conference will be held in the [FERMI](https://fermi.univ-tlse3.fr) seminar room (Building 3R1b4) on the campus of the Universite Paul Sabatier. Exact location [here](https://maps.app.goo.gl/RS9c1824Uv9X7kpT7).
+The conference will be held in the [FERMI](https://fermi.univ-tlse3.fr) seminar room (Building 3R1b4) on the campus of the Université Paul Sabatier. Exact location [here](https://maps.app.goo.gl/RS9c1824Uv9X7kpT7).
 
 # Sponsorship
 
