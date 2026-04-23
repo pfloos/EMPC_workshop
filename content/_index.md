@@ -9,12 +9,21 @@ draft: false
 
 <img src="img/EMPC.png" width="200">
 
-## Embedding Theory: Bridging Math, Physics, and Chemistry
+# Embedding Theory: Bridging Math, Physics, and Chemistry
 
 Embedding theory stands at the forefront of modern electronic structure research, offering powerful frameworks to tackle the complexities of correlated electrons in materials and molecules. By partitioning a system into an active region and its environment, embedding methods—such as density matrix embedding, quantum defect embedding, and hybrid quantum-classical approaches—enable accurate simulations of strongly correlated states in condensed matter physics, quantum chemistry, and materials science. These theories are revolutionizing our ability to model spin defects in semiconductors, predict luminescent properties, and even simulate realistic materials on quantum computers. As the field evolves, embedding theory is increasingly integrated with machine learning and quantum computing, pushing the boundaries of what’s possible in both fundamental research and technological innovation. From designing next-generation quantum materials to understanding complex chemical reactions, embedding theory is a unifying force, connecting mathematical rigor with real-world applications across disciplines.
 
-This workshop has received funding from various awesome organisations
+# Registration
 
-## CONFIRMED INVITED SPEAKERS
+Registration is **open**. Please, email <loos@irsamc.ups-tlse.fr> to register and submit your title and abstract if you would like to contribute (30min talks & posters are available). There is no registration fee. **Deadline for contributions: Nov 1st 2023**.
+
+# CONFIRMED INVITED SPEAKERS
 - James Bond (Cambridge, UK)
 
+# Location
+
+The conference will be held in the [FERMI](https://fermi.univ-tlse3.fr) seminar room (Building 3R1b4) on the campus of the Universite Paul Sabatier. Exact location [here](https://maps.app.goo.gl/RS9c1824Uv9X7kpT7).
+
+# Sponsorship
+
+This workshop has received funding from various awesome organisations.
