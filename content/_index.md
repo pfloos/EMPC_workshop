@@ -4,7 +4,7 @@ date: 2020-12-02 09:00
 draft: false
 ---
 
-# NEWS
+# News
 * **Apr 2026:** The workshop's website is officially up and running!
 
 <img src="img/EMPC.png" width="200">
@@ -17,7 +17,7 @@ Embedding theory stands at the forefront of modern electronic structure research
 
 Registration has not yet opened. 
 
-# CONFIRMED INVITED SPEAKERS
+# Confirmed invited speakers
 - James Bond (Cambridge, UK)
 
 # Location
