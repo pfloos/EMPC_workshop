@@ -30,43 +30,17 @@ title = "EMPC WORKSHOP (Toulouse, ??-?? Apr 2027)"
     weight = 1
 
 [[menu.main]]
-    name = "Registration"
-    url = "registration"
+    name = "Program"
+    url = "planning"
     weight = 2
 
-[[menu.main]]
-    name = "Planning"
-    url = "planning"
-    weight = 3
-
  [[menu.main]]
-     name="Presentations"
+     name="Science"
      url = "presentations"
-     weight = 4
-
- [[menu.main]]
-     name="Posters"
-     url = "posters"
-     weight = 5
-
-[[menu.main]]
-    name = "Location"
-    url = "map"
-    weight = 6
-
-[[menu.main]]
-    name = "Participants"
-    url = "participants"
-    weight = 7
+     weight = 3
 
 [[menu.main]]
     name = "Sponsors"
     url = "sponsors"
-    weight = 8
-
-#[[menu.main]]
-#    parent="external"
-#    name = "CNRS"
-#    url = "http://www.cnrs.fr"
-#    weight = 2
+    weight = 4
 
