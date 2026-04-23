@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on EMPC WORKSHOP (Toulouse, ??-?? Apr 2027)</title>
+    <link>https://pfloos.github.io/EMPC_workshop/tags/</link>
+    <description>Recent content in Tags on EMPC WORKSHOP (Toulouse, ??-?? Apr 2027)</description>
+    <generator>Hugo 0.125.0</generator>
+    <language>en-us</language>
+    <managingEditor>gdrnbody@lct.jussieu.fr</managingEditor>
+    <webMaster>gdrnbody@lct.jussieu.fr</webMaster>
+    <atom:link href="https://pfloos.github.io/EMPC_workshop/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
