@@ -1,5 +1,5 @@
 baseURL = "http://localhost:1313/EMPC_workshop/"
-#baseURL = "https://lcpq.github.io/gdr_nbody_2021/"
+#baseURL = "https://pfloos.github.io/EMPC_workshop/"
 canonifyurls  = true
 languageCode = "en-us"
 DefaultContentLanguage = "en"
