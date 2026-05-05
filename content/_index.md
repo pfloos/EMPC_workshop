@@ -19,23 +19,24 @@ Embedding theory stands at the forefront of modern electronic structure research
 Registration has not yet opened. 
 
 # Confirmed invited speakers
-- Tianyu Zhu (Yale, US)
-- Anna Galler (TU Graz, Austria)
-- Emmanuel Fromager (Strasbourg, France)
-- Francesca Paoletti (U Würzburg, Germany)
 - Gabriele Bellomia (TU Wien, Austria)
-- Christoper Stein (TU Munich, Germany)
-- Philipp Hansmann (Friedrich-Alexander U, Germany)
-- Arno Förster (Vrije U, Netherlands)
-- Thomas Schäfer (U Trieste, Italy)
-- Libor Veis (Heyrovský Institute, Czech Republic)
 - Eric Cances (Ecole des Ponts ParisTech, France)
-- Sarai Dery Folkestad NTNU, Norway)
-- Tobias Schäfer (TU Wien, Austria)
-- Luca de Medici (ESPCI Paris, France)
-- Mathieu Lewin (U Paris-Dauphine, France)
-- Tim Wehling (U Hamburg, Germany) 
+- Sarai Dery Folkestad (NTNU, Norway)
+- Arno Förster (Vrije U, Netherlands)
+- Emmanuel Fromager (Strasbourg, France)
+- Fabian Faulstich (Rensselaer Polytechnic Institute, US)
+- Anna Galler (TU Graz, Austria)
+- Philipp Hansmann (Friedrich-Alexander U, Germany)
 - Anna Kauch (TU Wien, Austria)
+- Mathieu Lewin (U Paris-Dauphine, France)
+- Luca de Medici (ESPCI Paris, France)
+- Francesca Paoletti (U Würzburg, Germany)
+- Thomas Schäfer (U Trieste, Italy)
+- Tobias Schäfer (TU Wien, Austria)
+- Christoper Stein (TU Munich, Germany)
+- Libor Veis (Heyrovský Institute, Czech Republic)
+- Tim Wehling (U Hamburg, Germany)
+- Tianyu Zhu (Yale, US)
 
 # Location
 
