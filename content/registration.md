@@ -6,6 +6,6 @@ draft: false
 
 # Conference registration
 
-Registration is **closed**. The deadline for submission was December, 1st 2021!
+Registration has not yet **opened**. 
 
 

@@ -18,7 +18,23 @@ Embedding theory stands at the forefront of modern electronic structure research
 Registration has not yet opened. 
 
 # Confirmed invited speakers
-- James Bond (Cambridge, UK)
+- Tianyu Zhu (Yale, US)
+- Anna Galler (TU Graz, Austria)
+- Emmanuel Fromager (Strasbourg, France)
+- Francesca Paoletti (U Würzburg, Germany)
+- Gabriele Bellomia (TU Wien, Austria)
+- Christoper Stein (TU Munich, Germany)
+- Philipp Hansmann (Friedrich-Alexander U, Germany)
+- Arno Förster (Vrije U, Netherlands)
+- Thomas Schäfer (U Trieste, Italy)
+- Libor Veis (Heyrovský Institute, Czech Republic)
+- Eric Cances (Ecole des Ponts ParisTech, France)
+- Sarai Dery Folkestad NTNU, Norway)
+- Tobias Schäfer (TU Wien, Austria)
+- Luca de Medici (ESPCI Paris, France)
+- Mathieu Lewin (U Paris-Dauphine, France)
+- Tim Wehling (U Hamburg, Germany) 
+- Anna Kauch (TU Wien, Austria)
 
 # Location
 
