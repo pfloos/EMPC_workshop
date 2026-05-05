@@ -5,6 +5,7 @@ draft: false
 ---
 
 # News
+* **May 2026:** The list of invited speakers is steadily expanding (see below)
 * **Apr 2026:** The workshop's website is officially up and running!
 
 <img src="img/EMPC.png" width="200">
