@@ -20,7 +20,7 @@ draft: false
 |               |                          | 
 | 12:00 - 14:00 | Lunch break              |
 |               |                          |
-| **SESSION 2** | Chair: Mr Chain(wo)man   |
+| **SESSION 2** | Chair: Mr Chair(wo)man   |
 | 14:00 - 14:30 | Speaker - Title |
 | 15:00 - 15:30 | Speaker - Title |
 |               |                          |
@@ -47,7 +47,7 @@ draft: false
 |               |                          | 
 | 12:00 - 14:00 | Lunch break              |
 |               |                          |
-| **SESSION 4** | Chair: Mr Chain(wo)man   |
+| **SESSION 4** | Chair: Mr Chair(wo)man   |
 | 14:00 - 14:30 | Speaker - Title |
 | 15:00 - 15:30 | Speaker - Title |
 |               |                          |
@@ -74,7 +74,7 @@ draft: false
 |               |                          | 
 | 12:00 - 14:00 | Lunch break              |
 |               |                          |
-| **SESSION 6** | Chair: Mr Chain(wo)man   |
+| **SESSION 6** | Chair: Mr Chair(wo)man   |
 | 14:00 - 14:30 | Speaker - Title |
 | 15:00 - 15:30 | Speaker - Title |
 |               |                          |
