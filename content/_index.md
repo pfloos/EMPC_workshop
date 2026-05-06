@@ -31,6 +31,7 @@ Registration has not yet opened.
 - Mathieu Lewin (U Paris-Dauphine, France)
 - Luca de Medici (ESPCI Paris, France)
 - Francesca Paoletti (U Würzburg, Germany)
+- Ina Park (Flatiron Institute, USA)
 - Thomas Schäfer (U Trieste, Italy)
 - Tobias Schäfer (TU Wien, Austria)
 - Christoper Stein (TU Munich, Germany)
