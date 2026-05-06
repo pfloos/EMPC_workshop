@@ -7,10 +7,10 @@ theme = "beautifulhugo"
 title = "EMPC WORKSHOP (Toulouse, 6-8 Apr 2027)"
 [Params]
   hometitle = "Embedding in Math, Physics and Chemistry"
-  logo="img/EMPC.png"
+  logo="img/EMPC_banner.png"
 #  subtitle = ""
 [[Params.bigimg]]
-  src = "img/EMPC.png"
+  src = "img/EMPC_button.png"
   desc = "EMPC WORKSHOP"
 
 [markup]
