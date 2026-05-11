@@ -28,6 +28,7 @@ Registration has not yet opened.
 
 # Confirmed invited speakers
 - Gabriele Bellomia (TU Wien, Austria)
+- George Booth (King's College, UK)
 - Eric Cances (Ecole des Ponts ParisTech, France)
 - Sarai Dery Folkestad (NTNU, Norway)
 - Arno Förster (Vrije U, Netherlands)
@@ -39,7 +40,7 @@ Registration has not yet opened.
 - Mathieu Lewin (U Paris-Dauphine, France)
 - Luca de Medici (ESPCI Paris, France)
 - Francesca Paoletti (U Würzburg, Germany)
-- Ina Park (Flatiron Institute, USA)
+- Ina Park (Flatiron Institute, US)
 - Thomas Schäfer (U Trieste, Italy)
 - Tobias Schäfer (TU Wien, Austria)
 - Christoper Stein (TU Munich, Germany)
