@@ -28,4 +28,6 @@ draft: false
 1. Anna Kauch (TU Wien, Austria)
 1. Ina Park (Flatiron Institute, US)
 1. George Booth (King's College, UK)
+1. Chong Sun (Rutgers, US)
+1. Fabian Faulstich (Rensselaer Polytechnic Institute, US)
 
