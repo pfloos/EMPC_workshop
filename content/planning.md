@@ -22,12 +22,12 @@ draft: false
 |               |                          |
 | **SESSION 2** | Chair: Mr Chair(wo)man   |
 | 14:00 - 14:30 | Speaker - Title |
-| 15:00 - 15:30 | Speaker - Title |
+| 14:30 - 15:00 | Speaker - Title |
 |               |                          |
-| 15:30 - 16:00 | Coffee break  |
+| 15:00 - 15:30 | Coffee break  |
 |               |                          | 
+| 15:30 - 16:00 | Speaker - Title |
 | 16:00 - 16:30 | Speaker - Title |
-| 16:30 - 17:00 | Speaker - Title |
 |               | |
 
 
@@ -49,12 +49,12 @@ draft: false
 |               |                          |
 | **SESSION 4** | Chair: Mr Chair(wo)man   |
 | 14:00 - 14:30 | Speaker - Title |
-| 15:00 - 15:30 | Speaker - Title |
+| 14:30 - 15:00 | Speaker - Title |
 |               |                          |
-| 15:30 - 16:00 | Coffee break  |
+| 15:00 - 15:30 | Coffee break  |
 |               |                          | 
+| 15:30 - 16:00 | Speaker - Title |
 | 16:00 - 16:30 | Speaker - Title |
-| 16:30 - 17:00 | Speaker - Title |
 |               | |
 
 
@@ -76,11 +76,11 @@ draft: false
 |               |                          |
 | **SESSION 6** | Chair: Mr Chair(wo)man   |
 | 14:00 - 14:30 | Speaker - Title |
-| 15:00 - 15:30 | Speaker - Title |
+| 14:30 - 15:00 | Speaker - Title |
 |               |                          |
-| 15:30 - 16:00 | Coffee break  |
+| 15:00 - 15:30 | Coffee break  |
 |               |                          | 
+| 15:30 - 16:00 | Speaker - Title |
 | 16:00 - 16:30 | Speaker - Title |
-| 16:30 - 17:00 | Speaker - Title |
 |               | |
 
