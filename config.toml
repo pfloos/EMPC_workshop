@@ -4,21 +4,21 @@ canonifyurls  = true
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 theme = "beautifulhugo"
-title = "EMPC WORKSHOP (Toulouse, 6-8 Apr 2027)"
+title = "NanoX EMPC WORKSHOP (Toulouse, 6-8 Apr 2027)"
 [Params]
   hometitle = "Embedding in Math, Physics and Chemistry"
   logo="img/EMPC_button.png"
 #  subtitle = ""
 [[Params.bigimg]]
   src = "img/EMPC_banner.png"
-  desc = "EMPC WORKSHOP"
+  desc = "Nano X EMPC WORKSHOP"
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
  [Author]
-   name = "EMPC WORKSHOP"
+   name = "NanoX EMPC WORKSHOP"
    email = "cmejutozaera@irsamc.ups-tlse.fr"
    github = "pfloos"
 #   twitter = "GDR_NBODY"
