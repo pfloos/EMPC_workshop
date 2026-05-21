@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on EMPC WORKSHOP (Toulouse, 6-8 Apr 2027)</title>
+    <title>Home on NanoX EMPC WORKSHOP (Toulouse, 6-8 Apr 2027)</title>
     <link>https://pfloos.github.io/EMPC_workshop/</link>
-    <description>Recent content in Home on EMPC WORKSHOP (Toulouse, 6-8 Apr 2027)</description>
+    <description>Recent content in Home on NanoX EMPC WORKSHOP (Toulouse, 6-8 Apr 2027)</description>
     <generator>Hugo 0.125.0</generator>
     <language>en-us</language>
-    <managingEditor>cmejutozaera@irsamc.ups-tlse.fr (EMPC WORKSHOP)</managingEditor>
-    <webMaster>cmejutozaera@irsamc.ups-tlse.fr (EMPC WORKSHOP)</webMaster>
+    <managingEditor>cmejutozaera@irsamc.ups-tlse.fr (NanoX EMPC WORKSHOP)</managingEditor>
+    <webMaster>cmejutozaera@irsamc.ups-tlse.fr (NanoX EMPC WORKSHOP)</webMaster>
     <atom:link href="https://pfloos.github.io/EMPC_workshop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Location</title>
       <link>https://pfloos.github.io/EMPC_workshop/map/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>cmejutozaera@irsamc.ups-tlse.fr (EMPC WORKSHOP)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>cmejutozaera@irsamc.ups-tlse.fr (NanoX EMPC WORKSHOP)</author>
       <guid>https://pfloos.github.io/EMPC_workshop/map/</guid>
       <description>Location The conference will was supposed to be held in the amphithéâtre Laurent Schwartz on the campus of the Universite Paul Sabatier&#xA;Map Display larger map </description>
     </item>
     <item>
       <title>Participants</title>
       <link>https://pfloos.github.io/EMPC_workshop/participants/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>cmejutozaera@irsamc.ups-tlse.fr (EMPC WORKSHOP)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>cmejutozaera@irsamc.ups-tlse.fr (NanoX EMPC WORKSHOP)</author>
       <guid>https://pfloos.github.io/EMPC_workshop/participants/</guid>
       <description>List of registered participants Carlos Mejuto-Zaera&#x9;(U Toulouse, France, organiser) Johannes Tölle&#x9;(U Hamburg, Germany, organiser) Pierre-Francois Loos&#x9;(T Toulouse, France, organiser) Tianyu Zhu (Yale, US) Anna Galler (TU Graz, Austria) Emmanuel Fromager (Strasbourg, France) Francesca Paoletti (U Würzburg, Germany) Gabriele Bellomia (TU Wien, Austria) Christoper Stein (TU Munich, Germany) Philipp Hansmann (Friedrich-Alexander U, Germany) Arno Förster (Vrije U, Netherlands) Thomas Schäfer (U Trieste, Italy) Libor Veis (Heyrovský Institute, Czech Republic) Eric Cances (Ecole des Ponts ParisTech, France) Sarai Dery Folkestad NTNU, Norway) Tobias Schäfer (TU Wien, Austria) Luca de Medici (ESPCI Paris, France) Mathieu Lewin (U Paris-Dauphine, France) Tim Wehling (U Hamburg, Germany) Anna Kauch (TU Wien, Austria) Ina Park (Flatiron Institute, US) George Booth (King&amp;rsquo;s College, UK) Chong Sun (Rutgers, US) Fabian Faulstich (Rensselaer Polytechnic Institute, US) </description>
     </item>
     <item>
       <title>Planning</title>
       <link>https://pfloos.github.io/EMPC_workshop/planning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>cmejutozaera@irsamc.ups-tlse.fr (EMPC WORKSHOP)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>cmejutozaera@irsamc.ups-tlse.fr (NanoX EMPC WORKSHOP)</author>
       <guid>https://pfloos.github.io/EMPC_workshop/planning/</guid>
       <description>Tuesday, April 8, 2027 TIME EVENT SESSION 1 Chair: Carlos Mejuto-Zaera 9:30 - 10:00 Speaker - Title 10:00 - 10:30 Speaker - Title 10:30 - 11:00 Coffee break 11:00 - 11:30 Speaker - Title 11:30 - 12:00 Speaker - Title 12:00 - 14:00 Lunch break SESSION 2 Chair: Mr Chair(wo)man 14:00 - 14:30 Speaker - Title 14:30 - 15:00 Speaker - Title 15:00 - 15:30 Coffee break 15:30 - 16:00 Speaker - Title 16:00 - 16:30 Speaker - Title Wednesday, April 9, 2027 TIME EVENT SESSION 3 Chair: Pierre-Francois Loos 9:30 - 10:00 Speaker - Title 10:00 - 10:30 Speaker - Title 10:30 - 11:00 Coffee break 11:00 - 11:30 Speaker - Title 11:30 - 12:00 Speaker - Title 12:00 - 14:00 Lunch break SESSION 4 Chair: Mr Chair(wo)man 14:00 - 14:30 Speaker - Title 14:30 - 15:00 Speaker - Title 15:00 - 15:30 Coffee break 15:30 - 16:00 Speaker - Title 16:00 - 16:30 Speaker - Title Thursday, April 10, 2027 TIME EVENT SESSION 5 Chair: Johannes Tolle 9:30 - 10:00 Speaker - Title 10:00 - 10:30 Speaker - Title 10:30 - 11:00 Coffee break 11:00 - 11:30 Speaker - Title 11:30 - 12:00 Speaker - Title 12:00 - 14:00 Lunch break SESSION 6 Chair: Mr Chair(wo)man 14:00 - 14:30 Speaker - Title 14:30 - 15:00 Speaker - Title 15:00 - 15:30 Coffee break 15:30 - 16:00 Speaker - Title 16:00 - 16:30 Speaker - Title </description>
     </item>
     <item>
       <title>Posters</title>
       <link>https://pfloos.github.io/EMPC_workshop/posters/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>cmejutozaera@irsamc.ups-tlse.fr (EMPC WORKSHOP)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>cmejutozaera@irsamc.ups-tlse.fr (NanoX EMPC WORKSHOP)</author>
       <guid>https://pfloos.github.io/EMPC_workshop/posters/</guid>
       <description></description>
     </item>
     <item>
       <title>Presentations</title>
       <link>https://pfloos.github.io/EMPC_workshop/presentations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>cmejutozaera@irsamc.ups-tlse.fr (EMPC WORKSHOP)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>cmejutozaera@irsamc.ups-tlse.fr (NanoX EMPC WORKSHOP)</author>
       <guid>https://pfloos.github.io/EMPC_workshop/presentations/</guid>
       <description></description>
     </item>
     <item>
       <title>Registration</title>
       <link>https://pfloos.github.io/EMPC_workshop/registration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>cmejutozaera@irsamc.ups-tlse.fr (EMPC WORKSHOP)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>cmejutozaera@irsamc.ups-tlse.fr (NanoX EMPC WORKSHOP)</author>
       <guid>https://pfloos.github.io/EMPC_workshop/registration/</guid>
       <description>Conference registration Registration has not yet opened.</description>
     </item>
     <item>
       <title>Sponsors</title>
       <link>https://pfloos.github.io/EMPC_workshop/sponsors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>cmejutozaera@irsamc.ups-tlse.fr (EMPC WORKSHOP)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>cmejutozaera@irsamc.ups-tlse.fr (NanoX EMPC WORKSHOP)</author>
       <guid>https://pfloos.github.io/EMPC_workshop/sponsors/</guid>
       <description> CNRS NanoX LCPQ LPT FERMI UPS </description>
     </item>
