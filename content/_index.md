@@ -39,6 +39,7 @@ Registration has not yet opened.
 - Chong Sun (Rutgers, US)
 - Libor Veis (Heyrovský Institute, Czech Republic)
 - Tim Wehling (U Hamburg, Germany)
+- Dominika Zgid (U Warsaw, Poland)
 - Tianyu Zhu (Yale, US)
 
 # Location
