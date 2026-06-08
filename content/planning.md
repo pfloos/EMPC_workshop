@@ -4,7 +4,7 @@ date: 2020-12-02 09:02
 draft: false
 ---
 
-# Tuesday, April 8, 2027
+# Tuesday, April 6, 2027
     
 | TIME          | EVENT                    |
 | ------------- | -------------------------|
@@ -31,7 +31,7 @@ draft: false
 |               | |
 
 
-# Wednesday, April 9, 2027
+# Wednesday, April 7, 2027
     
 | TIME          | EVENT                    |
 | ------------- | -------------------------|
@@ -58,7 +58,7 @@ draft: false
 |               | |
 
 
-# Thursday, April 10, 2027
+# Thursday, April 8, 2027
     
 | TIME          | EVENT                    |
 | ------------- | -------------------------|
