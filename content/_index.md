@@ -48,4 +48,4 @@ The conference will be held in the [FERMI](https://fermi.univ-tlse3.fr) seminar 
 
 # Sponsorship
 
-This workshop has received funding from various awesome organisations.
+This workshop has received funding from [NanoX](https://nanox-toulouse.fr) and is supported by the [GDR NBODY](https://wiki.lct.jussieu.fr/gdrnbody/index.php?title=Accueil).
