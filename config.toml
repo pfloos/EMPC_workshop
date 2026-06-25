@@ -11,7 +11,7 @@ title = "NanoX EMPC WORKSHOP (Toulouse, 6-8 Apr 2027)"
 #  subtitle = ""
 [[Params.bigimg]]
   src = "img/EMPC_banner.png"
-  desc = "Nano X EMPC WORKSHOP"
+  desc = "NanoX EMPC WORKSHOP"
 
 [markup]
   [markup.goldmark]
