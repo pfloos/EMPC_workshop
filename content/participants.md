@@ -31,4 +31,5 @@ draft: false
 1. Chong Sun (Rutgers, US)
 1. Fabian Faulstich (Rensselaer Polytechnic Institute, US)
 1. Dominika Zgid (U Warsaw, Poland & U Michigan, US)
+1. Dipti Jasrasaria (U Chicago)
 
