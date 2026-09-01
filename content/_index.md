@@ -28,6 +28,7 @@ Registration has not yet opened.
 - Fabian Faulstich (Rensselaer Polytechnic Institute, US)
 - Anna Galler (TU Graz, Austria)
 - Philipp Hansmann (Friedrich-Alexander U, Germany)
+- Dipti Jasrasaria (University of Chicago)
 - Anna Kauch (TU Wien, Austria)
 - Mathieu Lewin (U Paris-Dauphine, France)
 - Luca de Medici (ESPCI Paris, France)
