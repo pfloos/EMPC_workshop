@@ -36,7 +36,6 @@ Registration has not yet opened.
 - Ina Park (Flatiron Institute, US)
 - Thomas Schäfer (U Trieste, Italy)
 - Tobias Schäfer (TU Wien, Austria)
-- Christoper Stein (TU Munich, Germany)
 - Chong Sun (Rutgers, US)
 - Libor Veis (Heyrovský Institute, Czech Republic)
 - Tim Wehling (U Hamburg, Germany)
