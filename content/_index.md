@@ -30,6 +30,8 @@ Registration has not yet opened.
 - Philipp Hansmann (Friedrich-Alexander U, Germany)
 - Dipti Jasrasaria (University of Chicago)
 - Anna Kauch (TU Wien, Austria)
+- Elena Kolodzeiski (TU Darmstadt, Germany)
+- Nicola Lanata (Rochester Institute of Technology, US)
 - Mathieu Lewin (U Paris-Dauphine, France)
 - Luca de Medici (ESPCI Paris, France)
 - Francesca Paoletti (U Würzburg, Germany)
