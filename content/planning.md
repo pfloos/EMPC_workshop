@@ -38,7 +38,7 @@ draft: false
 |               |                          |
 | **SESSION 3** | Chair: Pierre-Francois Loos |
 |  9:30 - 10:00 | Matthieu Lewin - Title |
-| 10:00 - 10:30 | Sarai Dery FOlkestad - Title |
+| 10:00 - 10:30 | Sarai Dery Folkestad - Title |
 |               |                          |
 | 10:30 - 11:00 | Coffee break |
 |               |                          |
