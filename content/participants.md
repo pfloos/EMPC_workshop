@@ -34,4 +34,5 @@ draft: false
 1. Dipti Jasrasaria (U Chicago, US)
 1. Nicola Lanata (Rochester Institute of Technology, US)
 1. Elena Kolodzeiski (TU Darmstadt, Germany)
+1. Johannes Neugebauer (U Münster, Germany)
 

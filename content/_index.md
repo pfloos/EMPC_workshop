@@ -34,6 +34,7 @@ Registration has not yet opened.
 - Nicola Lanata (Rochester Institute of Technology, US)
 - Mathieu Lewin (U Paris-Dauphine, France)
 - Luca de Medici (ESPCI Paris, France)
+- Johannes Neugebauer (U Münster, Germany)
 - Francesca Paoletti (U Würzburg, Germany)
 - Ina Park (Flatiron Institute, US)
 - Thomas Schäfer (U Trieste, Italy)
